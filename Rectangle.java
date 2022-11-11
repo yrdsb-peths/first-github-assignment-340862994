@@ -1,1 +1,1 @@
-String str = "";
+int x = 1;
