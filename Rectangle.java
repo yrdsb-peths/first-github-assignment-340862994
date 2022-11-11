@@ -1,1 +1,1 @@
-int x = 1;
+System.out.println("Rectangle");
